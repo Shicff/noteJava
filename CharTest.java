@@ -14,5 +14,8 @@ public class CharTest{
 
        char c = 97;
        System.out.println(c);
+
+       String s = "Äã²ÂÄã²ÂÄã²Â";
+       System.out.println(s);       
 }
 }
